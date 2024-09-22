@@ -8,7 +8,7 @@ import requests
 # Load data and preprocess
 @st.cache_data()
 def load_data():
-    movies_data = pd.read_csv('movies.csv')
+    movies_data = pd.read_csv('data/movies.csv')
     selected_features = ['genres', 'keywords', 'tagline', 'cast', 'director']
     for feature in selected_features:
         movies_data[feature] = movies_data[feature].fillna('')
