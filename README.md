@@ -1,3 +1,4 @@
+
 # Movie Recommendation System
 
 ## Overview
@@ -21,18 +22,19 @@ This is a Movie Recommendation System built using Streamlit. It suggests similar
    ```bash
    git clone https://github.com/nitheesh2509/Movie-Recommendation-System-Similarity-Based-Film-Suggestions.git
    cd Movie-Recommendation-System-Similarity-Based-Film-Suggestions
+   ```
 
 2. Install the required packages:
-   '''bash
+   ```bash
    pip install -r requirements.txt
-   '''
+   ```
 
-4. Run the Streamlit app:
-   '''bash
+3. Run the Streamlit app:
+   ```bash
    streamlit run movie_recommender_app.py
-   '''
+   ```
 
 ## Screenshots
-![output1](images/output1.png)
-![output2](images/output2.png)
-![output3](images/output3.png)
+![Output 1](images/output1.png)
+![Output 2](images/output2.png)
+![Output 3](images/output3.png)
