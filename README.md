@@ -23,13 +23,13 @@ This is a Movie Recommendation System built using Streamlit. It suggests similar
    cd Movie-Recommendation-System-Similarity-Based-Film-Suggestions
 
 2. Install the required packages:
-    '''bash
-    pip install -r requirements.txt
+   '''bash
+   pip install -r requirements.txt
    '''
 
 4. Run the Streamlit app:
-    '''bash
-    streamlit run movie_recommender_app.py
+   '''bash
+   streamlit run movie_recommender_app.py
    '''
 
 ## Screenshots
