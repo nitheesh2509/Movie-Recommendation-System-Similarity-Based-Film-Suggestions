@@ -25,10 +25,12 @@ This is a Movie Recommendation System built using Streamlit. It suggests similar
 2. Install the required packages:
     '''bash
     pip install -r requirements.txt
+   '''
 
-3. Run the Streamlit app:
+4. Run the Streamlit app:
     '''bash
     streamlit run movie_recommender_app.py
+   '''
 
 ## Screenshots
 ![output1](images/output1.png)
